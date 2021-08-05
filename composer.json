@@ -1,0 +1,18 @@
+{
+    "name": "webbird/cmsbridge",
+    "type": "standard",
+    "description": "",
+    "license": "",
+    "require": {
+        
+    },
+    "require-dev": {
+        "psalm/phar": "*"
+    },
+    "autoload": {
+        
+    },
+    "autoload-dev": {
+        
+    }
+}
