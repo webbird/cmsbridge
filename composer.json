@@ -10,7 +10,9 @@
         "psalm/phar": "*"
     },
     "autoload": {
-        
+        "psr-4": {
+            "webbird\\cmsbridge\\": "src/webbird/cmsbridge"
+        }
     },
     "autoload-dev": {
         
